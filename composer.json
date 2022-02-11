@@ -18,10 +18,10 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "pragmarx/ia-collection": "~5.0|~6.0|~7.0",
-        "pragmarx/ia-str": "~5.0|~6.0|~7.0",
-        "pragmarx/ia-arr": "~5.0|~6.0|~7.0"
+        "php": ">=7.4",
+        "pragmarx/ia-collection": ">5",
+        "pragmarx/ia-str": ">5",
+        "pragmarx/ia-arr": ">5"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
